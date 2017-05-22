@@ -1,2 +1,2 @@
 # class4_test
-example
+2017-05-22 github testing
